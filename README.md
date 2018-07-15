@@ -10,3 +10,6 @@ mvn test
 
 ## Run
 don't bother
+
+## Benchmark
+java -jar ./target/benchmarks.jar ParallelStreamBenchmark
